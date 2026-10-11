@@ -48,9 +48,14 @@ Seating Charts is then in the Start menu, and on your desktop if you left that b
 
 ### Updating
 
-When a new version is out, Seating Charts shows a banner at the top with a **Download** button. Quit Seating Charts,
-then install the new version the same way: on a Mac, drag it into Applications and choose **Replace** (your Mac may
-ask for **Open Anyway** once more); on Windows, run the new installer. Your exams, rooms and settings are kept.
+When a new version is out, Seating Charts shows a banner at the top with **Update now**. Click it and keep the page
+open: the app downloads the new version, closes, installs it and opens again by itself, and the page reloads. Your
+exams, rooms and settings are kept. On a Mac, the version it replaced is left in the Trash.
+
+If the banner has a **Download** button instead, this copy can't update itself (version 0.11.3 and earlier, or a Mac
+app that was never moved into Applications). Quit Seating Charts, then install the new version the same way as the
+first time: on a Mac, drag it into Applications and choose **Replace** (your Mac may ask for **Open Anyway** once
+more); on Windows, run the new installer.
 
 ### Uninstalling
 
